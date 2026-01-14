@@ -2,7 +2,7 @@
 
 ## How I build this project
 
-Hello Everyone, Myself Sudhanshu Kumar. I am a 4th-year Undergrad Student in Electronics & Communication Engineering. I am pursuing my B.tech from Sant Longowal Institute of Engineering and Technology.
+Hello Everyone, Myself Pritam Chauhan. I am a 4th-year Undergrad Student in Computer Science Engineering. I am pursuing my B.tech from Centurion University Of Technology And Management Bhubaneswar.
  
 
 Simply I start with python. Learn python as per requirement then I learned how to build a GUI application with Python Tkinter. Then I learned a little bit about some libraries such as OpenCV, Numpy, and Face Recognition. I have also learned about the MySQL database.
